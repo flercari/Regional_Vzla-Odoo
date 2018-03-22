@@ -1,0 +1,9 @@
+id,description,chart_template_id:id,type_tax_use,name,amount_type,amount,account_id:id,refund_account_id:id,children_tax_ids:id,tag_ids:id,tax_group_id:id
+tax0sale,EX 0%,l10n_ve,sale,Exento Ventas,percent,0,210501,210501,,tag_exento_ventas,tax_group_iva_0
+tax1sale,RD 8%,l10n_ve,sale,IVA 08% Ventas,percent,8,210501,210501,,tag_iva_8_ventas,tax_group_iva_8
+tax2sale,GN 12%,l10n_ve,sale,IVA 12% Ventas,percent,12,210501,210501,,tag_iva_12_ventas,tax_group_iva_12
+tax3sale,S1 27%,l10n_ve,sale,IVA 27% Ventas,percent,27,210501,210501,,tag_iva_27_ventas,tax_group_iva_27
+tax0purchase,EX 0%,l10n_ve,purchase,Exento Compras,percent,0,110501,110501,,tag_exento_compras,tax_group_iva_0
+tax1purchase,RD 8%,l10n_ve,purchase,IVA 08% Compras,percent,8,110501,110501,,tag_iva_8_compras,tax_group_iva_8
+tax2purchase,GN 12%,l10n_ve,purchase,IVA 12% Compras,percent,12,110501,110501,,tag_iva_12_compras,tax_group_iva_12
+tax3purchase,S1 27%,l10n_ve,purchase,IVA 27% Compras,percent,27,110501,110501,,tag_iva_27_compras,tax_group_iva_27
