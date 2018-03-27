@@ -4,10 +4,10 @@
         <record id="eyngroup" model="res.partner">
             <field name="name">eyngroup LTD</field>
             <field name="is_company">1</field>
-            <field name="street">12, Hill Lane</field>
-            <field name="zip">HA4 7JW</field>
-            <field name="city">Ruislip</field>
-            <field name="country_id" ref="base.uk"/>
+            <field name="street">Calle Cantaura, C.C. Mama Blanca</field>
+            <field name="zip">6201</field>
+            <field name="city">Maturin</field>
+            <field name="country_id" ref="base.ve"/>
             <field name="phone">+58 414 3949827</field>
             <field name="website">http://www.eyngroup.co.uk</field>
             <field name="email">eyngroup@yourcompany.example.com</field>
@@ -19,9 +19,9 @@
             <field name="email">iron.graterol@eyngroup.example.com</field>
             <field name="active">1</field>
             <field name="type">contact</field>
-            <field name="street">88 Wood Street, 10th floor</field>
+            <field name="street">Calle Cantaura, C.C. Mama Blanca</field>
             <field name="zip">6201</field>
-            <field name="city">Caracas</field>
+            <field name="city">Maturin</field>
             <field name="country_id" ref="base.ve"/>
         </record>
     </data>
