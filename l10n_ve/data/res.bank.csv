@@ -1,4 +1,0 @@
-id,name,bic,country/id,zip,city,street,email,phone
-BCOMERCANTIL,Banco Mercantil,BCOMERCANTIL,base.ve,1021,Caracas,Direccion Fiscal Mercantil,correo@mercantil.com,+3614299200
-BCOBANESCO,Banco Banesco,BCOBANESCO,base.ve,1021,Caracas,Direccion Fiscal Banesco,,
-VENEZUELA,Banco de Venezuela,VENEZUELA,base.ve,,,,,
