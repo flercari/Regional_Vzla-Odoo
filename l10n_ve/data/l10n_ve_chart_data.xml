@@ -15,7 +15,7 @@
     </record>
 
         <!-- Chart template -->
-    <record id="l10n_ve" model="account.chart.template">
+    <record id="venezuela_chart_template_nif" model="account.chart.template">
         <field name="name">Plan de Cuentas VEN-NIF</field>
         <field name="cash_account_code_prefix">1101</field>
         <field name="bank_account_code_prefix">1102</field>
@@ -25,6 +25,6 @@
     </record>
 
     <record id="110199" model="account.account.template">
-        <field name="chart_template_id" ref="l10n_ve"/>
+        <field name="chart_template_id" ref="venezuela_chart_template_nif"/>
     </record>
 </odoo>

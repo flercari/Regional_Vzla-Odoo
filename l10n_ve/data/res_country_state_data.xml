@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+    <!-- States of Venezuela -->
+        <record id="state_0248" model="res.country.state">
+            <field name="code">0248</field>
+            <field name="name">Amazonas</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0281" model="res.country.state">
+            <field name="code">0281</field>
+            <field name="name">Anzoategui</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0247" model="res.country.state">
+            <field name="code">0247</field>
+            <field name="name">Apure</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0243" model="res.country.state">
+            <field name="code">0243</field>
+            <field name="name">Aragua</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0273" model="res.country.state">
+            <field name="code">0273</field>
+            <field name="name">Barinas</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0285" model="res.country.state">
+            <field name="code">0285</field>
+            <field name="name">Bolivar</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0241" model="res.country.state">
+            <field name="code">0241</field>
+            <field name="name">Carabobo</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0258" model="res.country.state">
+            <field name="code">0258</field>
+            <field name="name">Cojedes</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0287" model="res.country.state">
+            <field name="code">0287</field>
+            <field name="name">Delta Amacuro</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0212" model="res.country.state">
+            <field name="code">0212</field>
+            <field name="name">Distrito Capital</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0268" model="res.country.state">
+            <field name="code">0268</field>
+            <field name="name">Falcon</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0235" model="res.country.state">
+            <field name="code">0235</field>
+            <field name="name">Guarico</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0251" model="res.country.state">
+            <field name="code">0251</field>
+            <field name="name">Lara</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0234" model="res.country.state">
+            <field name="code">0234</field>
+            <field name="name">Miranda</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0291" model="res.country.state">
+            <field name="code">0291</field>
+            <field name="name">Monagas</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0274" model="res.country.state">
+            <field name="code">0274</field>
+            <field name="name">Merida</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0295" model="res.country.state">
+            <field name="code">0295</field>
+            <field name="name">Nueva Esparta</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0255" model="res.country.state">
+            <field name="code">0255</field>
+            <field name="name">Portuguesa</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0293" model="res.country.state">
+            <field name="code">0293</field>
+            <field name="name">Sucre</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0276" model="res.country.state">
+            <field name="code">0276</field>
+            <field name="name">Tachira</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0271" model="res.country.state">
+            <field name="code">0271</field>
+            <field name="name">Trujillo</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0211" model="res.country.state">
+            <field name="code">0211</field>
+            <field name="name">Vargas</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0254" model="res.country.state">
+            <field name="code">0254</field>
+            <field name="name">Yaracuy</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+        <record id="state_0261" model="res.country.state">
+            <field name="code">0261</field>
+            <field name="name">Zulia</field>
+            <field name="country_id" ref="base.VEF"/>
+        </record>
+    </data>
+</odoo>

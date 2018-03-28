@@ -199,7 +199,7 @@ msgstr "15 Días"
 #. module: account
 #: model:account.payment.term,name:account.account_payment_term_net
 msgid "30 Net Days"
-msgstr "30 Días Netos"
+msgstr "30 Días"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -209,7 +209,7 @@ msgstr "5) Para la configuración, necesitará la siguiente información:"
 #. module: account
 #: model:ir.ui.view,arch_db:account.report_generalledger
 msgid ": General ledger"
-msgstr ": Libro Mayor"
+msgstr ": Mayor Analitico"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.report_trialbalance
@@ -350,7 +350,7 @@ msgstr "<html>\n"
 "                      </tr>\n"
 "                      <tr>\n"
 "                        <td align=\"center\">\n"
-"                            Powered by <a href=\"https://www.odoo.com\">Odoo</a>.\n"
+"                            Powered by <a href=\"https://www.eyngroup.com\">eyngroup</a>.\n"
 "                        </td>\n"
 "                      </tr>\n"
 "                    </tbody>\n"
@@ -362,12 +362,12 @@ msgstr "<html>\n"
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid "<span class=\"fa fa-arrow-circle-o-down\"/> Install Now"
-msgstr "<span class=\"fa fa-arrow-circle-o-down\"/> Instalar ahora"
+msgstr "<span class=\"fa fa-arrow-circle-o-down\"/> Instalar Ahora"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid "<span class=\"fa\"/> Invite Your Users"
-msgstr "<span class=\"fa\"/>Invitar a usuarios"
+msgstr "<span class=\"fa\"/>Invitar a Usuarios"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.partner_view_buttons
@@ -1121,27 +1121,27 @@ msgstr "Mapeo de cuentas"
 #. module: account
 #: model:ir.ui.view,arch_db:account.view_account_move_reversal
 msgid "Account Move Reversal"
-msgstr "Revocación de movimiento en cuenta"
+msgstr "Reverso de movimiento en cuenta"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_bank_accounts_wizard_acc_name
 msgid "Account Name."
-msgstr "Nombre cuenta."
+msgstr "Nombre Cuenta."
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_journal_bank_acc_number
 msgid "Account Number"
-msgstr "Número de cuenta"
+msgstr "Número de Cuenta"
 
 #. module: account
 #: model:ir.model,name:account.model_account_report_partner_ledger
 msgid "Account Partner Ledger"
-msgstr "Contabilidad. Libro de asociado"
+msgstr "Cuenta Contable del Socio"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_partner_property_account_payable_id
 msgid "Account Payable"
-msgstr "Cuenta por pagar"
+msgstr "Cuenta por Pagar"
 
 #. module: account
 #: model:ir.model,name:account.model_account_print_journal
@@ -1156,7 +1156,7 @@ msgstr "Propiedades de la cuenta"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_partner_property_account_receivable_id
 msgid "Account Receivable"
-msgstr "Cuenta por cobrar"
+msgstr "Cuenta por Cobrar"
 
 #. module: account
 #: model:ir.model,name:account.model_account_financial_report
@@ -1280,7 +1280,7 @@ msgstr "Conciliación linea de asiento (desajuste)"
 #. module: account
 #: model:ir.model,name:account.model_account_move_reversal
 msgid "Account move reversal"
-msgstr "Revocación de movimiento en cuenta"
+msgstr "Reverso de movimiento en cuenta"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_fiscal_position_account_account_src_id
@@ -5118,7 +5118,7 @@ msgstr "Facturación"
 #. module: account
 #: model:ir.ui.view,arch_db:account.view_account_config_settings
 msgid "Invoicing & Payments"
-msgstr "Facturación y pagos"
+msgstr "Facturación y Pagos"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_bank_statement_is_difference_zero
@@ -7618,12 +7618,12 @@ msgstr "Reconocimiento de Ingresos"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_move_reversal_date
 msgid "Reversal date"
-msgstr "Fecha de reversión"
+msgstr "Fecha de reverso"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.view_move_form
 msgid "Reverse Entry"
-msgstr "Asiento de reversión"
+msgstr "Asiento de reverso"
 
 #. module: account
 #: code:addons/account/wizard/account_move_reversal.py:20
@@ -7631,7 +7631,7 @@ msgstr "Asiento de reversión"
 #: model:ir.ui.view,arch_db:account.view_account_move_reversal
 #, python-format
 msgid "Reverse Moves"
-msgstr "Movimientos de reversión"
+msgstr "Movimientos de reverso"
 
 #. module: account
 #: selection:account.financial.report,sign:0
@@ -9922,12 +9922,12 @@ msgstr "Podrá editar y validar esta\n"
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid "Your Bank Accounts"
-msgstr "Sus cuentas bancarias"
+msgstr "Sus Cuentas Bancarias"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid "Your Company"
-msgstr "Su compañía"
+msgstr "Su Compañía"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -9942,12 +9942,12 @@ msgstr "Tus productos"
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid "Your Trial Balance (list of accounts and their balances)."
-msgstr "Su Balance de comprobación (lista de cuentas y sus saldos)."
+msgstr "Su Balance de Comprobación (lista de cuentas y sus saldos)."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid "Your company's legal name, tax ID, address, and logo."
-msgstr "Su razón social, CIF, dirección y logo."
+msgstr "Su razón social, RIF, dirección y logo."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -10005,7 +10005,7 @@ msgstr "account.tax.group"
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid "accounting settings"
-msgstr "Opciones de contabilidad"
+msgstr "opciones de contabilidad"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -10061,7 +10061,7 @@ msgstr "días"
 #. module: account
 #: model:ir.ui.view,arch_db:account.view_account_reconcile_model_form
 msgid "e.g. Bank Fees"
-msgstr "por ejemplo Comisiones bancarias"
+msgstr "por ejemplo Comisiones Bancarias"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
