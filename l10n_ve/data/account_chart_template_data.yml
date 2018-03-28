@@ -1,3 +1,3 @@
 -
-  !python {model: account.chart.template, id: venezuela_chart_template_nif}: |
+  !python {model: account.chart.template, id: l10n_ve}: |
     self[0].try_loading_for_current_company()

@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-  <menuitem id="account_reports_ve_statements_menu" name="Venezuela" parent="account.menu_finance_reports" sequence="0" groups="account.group_account_user"/>
-  
-  <!-- Account Types -->
-    <record id="account_account_type_indefinida" model="account.account.type">
-        <field name="name">Cuentas No Definidas</field>
+
+	<!-- Tipos de Cuentas -->
+    <record model="account.account.type" id="account_type_indefinida">
+        <field name="name">Cuenta No Definida</field>
     </record>
 
-    <record id="110199" model="account.account.template">
+    <record model="account.account.template" id="110199">
         <field name="code">110199</field>
-        <field name="name">Cuenta de Transferencia</field>
+        <field name="name">Cuenta de Transferencia Interna</field>
         <field name="reconcile" eval="True"/>
         <field name="user_type_id" ref="account.data_account_type_current_assets"/>
     </record>
 
-        <!-- Chart template -->
-    <record id="venezuela_chart_template_nif" model="account.chart.template">
+	<!-- Plantiila de Cuentas -->
+    <record model="account.chart.template" id="l10n_ve">
         <field name="name">Plan de Cuentas VEN-NIF</field>
         <field name="cash_account_code_prefix">1101</field>
         <field name="bank_account_code_prefix">1102</field>
@@ -24,7 +23,8 @@
         <field name="transfer_account_id" ref="110199"/>
     </record>
 
-    <record id="110199" model="account.account.template">
-        <field name="chart_template_id" ref="venezuela_chart_template_nif"/>
+    <record model="account.account.template" id="110199">
+        <field name="chart_template_id" ref="l10n_ve"/>
     </record>
+
 </odoo>
