@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-    <!--<data noupdate="1">-->
+    <data noupdate="0">
 
         <!-- Impuestos - Grupos -->
         <record model="account.tax.group" id="tax_group_iva_0">
@@ -12,9 +12,12 @@
         <record model="account.tax.group" id="tax_group_iva_12">
             <field name="name">IVA 12%</field>
         </record>
-        <record model="account.tax.group" id="tax_group_iva_22">
+        <record model="account.tax.group" id="tax_group_iva_20">
             <field name="name">IVA 22%</field>
         </record>
+        <record model="account.tax.group" id="tax_group_iva_23">
+            <field name="name">IVA 23%</field>
+        </record>
 
-    <!--</data>-->
+    </data>
 </odoo>
