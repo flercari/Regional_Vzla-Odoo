@@ -7,7 +7,7 @@
 	'name': 'Venezuela - Accounting',
     'version': '1.0',
     'category': 'Localization',
-    'description': """  TEST 1.8.1 """,
+    'description': """  TEST 1.8.3 """,
     'author': 'Iron Graterol',
     'website': 'http://www.eyngroup.com.ve',
     'depends': ['account'],
