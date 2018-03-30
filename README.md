@@ -1,5 +1,5 @@
-#Configuracion Regional Extendida para Venezuela#  
-###**Complementos Agregados:**###
+# Configuracion Regional Extendida para Venezuela  
+### **Complementos Agregados:**
   
 1. l10n_ve 
 * Plan de Cuentas Actualizado con Normas NIF en (Incluye Cuentas de Costos de Produccion)
