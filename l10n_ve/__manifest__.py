@@ -5,20 +5,18 @@
 
 {	
     'name': 'Venezuela - Accounting',
-    'version': '1.0',
+    'version': '2.0',
     'category': 'Localization',
     'description': """
-Venezuela Accounting Basic Module
-
+Venezuela Accounting Module
+===========================
 General Chart of Accounts VEN-NIF.
-Provide Templates for Chart of Accounts, Taxes, Regional Currencies, States, List Bank""",
+Provide Templates for Chart of Accounts and Taxes""",
     'author': 'Iron Graterol',
     'website': 'http://www.eyngroup.com.ve',
     'depends': ['account'],
     'data': [
         'data/l10n_ve_chart_data.xml',
-		'data/res_country_state_data.xml',
-		'data/res.bank.csv',
         'data/account.account.template.csv',
         'data/account.chart.template.csv',
         'data/account.account.tag.csv',
