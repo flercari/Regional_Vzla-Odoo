@@ -1,9 +1,9 @@
 id,name,applicability
-tag_exento_ventas,Exento Ventas,taxes
-tag_iva_8_ventas,IVA 08% Ventas,taxes
-tag_iva_12_ventas,IVA 12% Ventas,taxes
-tag_iva_22_ventas,IVA 22% Ventas,taxes
-tag_exento_compras,Exento Compras,taxes
-tag_iva_8_compras,IVA 08% Compras,taxes
-tag_iva_12_compras,IVA 12% Compras,taxes
-tag_iva_22_compras,IVA 22% Compras,taxes
+tag_iva_EX_ventas,IVA Ventas Exentas,taxes
+tag_iva_RD_ventas,IVA Ventas 08%,taxes
+tag_iva_GN_ventas,IVA Ventas 12%,taxes
+tag_iva_S1_ventas,IVA Ventas 22%,taxes
+tag_iva_EX_compras,IVA Compras Exentas,taxes
+tag_iva_RD_compras,IVA Compras 08%,taxes
+tag_iva_GN_compras,IVA Compras 12%,taxes
+tag_iva_S1_compras,IVA Compras 22%,taxes

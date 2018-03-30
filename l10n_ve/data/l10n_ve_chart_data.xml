@@ -13,7 +13,7 @@
         <field name="user_type_id" ref="account.data_account_type_current_assets"/>
     </record>
 
-	<!-- Plantiila de Cuentas -->
+	<!-- Plantilla de Cuentas -->
     <record model="account.chart.template" id="l10n_ve">
         <field name="name">Plan de Cuentas VEN-NIF</field>
         <field name="cash_account_code_prefix">1101</field>
