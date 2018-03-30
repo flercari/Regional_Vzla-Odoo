@@ -22,6 +22,7 @@ Provide Templates for Chart of Accounts and Taxes""",
         'data/account.account.tag.csv',
         'data/account.tax.group.csv',
         'data/account.tax.template.csv',
+		'data/account.fiscal.position.template.csv',
         'data/account_chart_template_data.yml',
 	],
 }
