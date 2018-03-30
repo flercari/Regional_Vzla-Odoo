@@ -1,31 +1,31 @@
 id,name,bic,street,city,state/id,zip,country/id,phone,email,active
 G200001100,Banco Central de Venezuela,0001,Calle,Caracas,state_0212,1010,base.ve,21212345678,email@bcocentral.com,TRUE
-G200099976,Banco de Venezuela S.A.C.A. Banco Universal,0102,,,state_0212,,base.ve,,,TRUE
-J000029709,Venezolano de Credito S.A. Banco Universal,0104,,,state_0212,,base.ve,,,TRUE
-J000029610,Banco Mercantil C.A. Banco Universal,0105,,,state_0212,,base.ve,,,TRUE
-J000029679,Banco Provincial S.A. Banco Universal,0108,,,state_0212,,base.ve,,,TRUE
-J000029490,Bancaribe C.A. Banco Universal,0114,,,state_0212,,base.ve,,,TRUE
-J000029504,Banco Exterior C.A. Banco Universal,0115,,,state_0212,,base.ve,,,TRUE
-J300619460,Banco Occidental de Descuento Banco Universal C.A,0116,,,state_0212,,base.ve,,,TRUE
-J095048551,Banco Caroni C.A. Banco Universal,0128,,,state_0212,,base.ve,,,TRUE
-J070133805,Banesco Banco Universal S.A.C.A.,0134,,,state_0212,,base.ve,,,TRUE
-J090283846,Banco Sofitasa Banco Universal,0137,,,state_0212,,base.ve,,,TRUE
-J002970553,Banco Plaza Banco Universal,0138,,,state_0212,,base.ve,,,TRUE
-J301442040,Banco de la Gente Emprendedora C.A,0146,,,state_0212,,base.ve,,,TRUE
-J000723060,BFC Banco Fondo Comun C.A. Banco Universal,0151,,,state_0212,,base.ve,,,TRUE
-J085007768,100% Banco Banco Universal C.A.,0156,,,state_0212,,base.ve,,,TRUE
-J000797234,DelSur Banco Universal C.A.,0157,,,state_0212,,base.ve,,,TRUE
-G200051876,Banco del Tesoro C.A. Banco Universal,0163,,,state_0212,,base.ve,,,TRUE
-G200057955,Banco Agricola de Venezuela C.A. Banco Universal,0166,,,state_0212,,base.ve,,,TRUE
-J316374173,Bancrecer S.A. Banco Microfinanciero,0168,,,state_0212,,base.ve,,,TRUE
-J315941023,Mi Banco Banco Microfinanciero C.A.,0169,,,state_0212,,base.ve,,,TRUE
-J080066227,Banco Activo Banco Universal,0171,,,state_0212,,base.ve,,,TRUE
-J316287599,Bancamica Banco Microfinanciero C.A.,0172,,,state_0212,,base.ve,,,TRUE
-J294640109,Banco Internacional de Desarrollo C.A. Banco Universal,0173,,,state_0212,,base.ve,,,TRUE
-J000423032,Banplus Banco Universal C.A,0174,,,state_0212,,base.ve,,,TRUE
-G200091487,Banco Bicentenario del Pueblo de la Clase Obrera Mujer y Comunas B.U.,0175,,,state_0212,,base.ve,,,TRUE
-J308918644,Novo Banco S.A. Sucursal Venezuela Banco Universal,0176,,,state_0212,,base.ve,,,TRUE
-G200106573,Banco de la Fuerza Armada Nacional Bolivariana B.U.,0177,,,state_0212,,base.ve,,,TRUE
-J000526621,Citibank N.A.,0190,,,state_0212,,base.ve,,,TRUE
-J309841327,Banco Nacional de Credito C.A. Banco Universal,0191,,,state_0212,,base.ve,,,TRUE
+G200099976,Banco de Venezuela,0102,,,state_0212,,base.ve,,,TRUE
+J000029709,Venezolano de Credito,0104,,,state_0212,,base.ve,,,TRUE
+J000029610,Banco Mercantil,0105,,,state_0212,,base.ve,,,TRUE
+J000029679,Banco Provincial,0108,,,state_0212,,base.ve,,,TRUE
+J000029490,BanCaribe,0114,,,state_0212,,base.ve,,,TRUE
+J000029504,Banco Exterior,0115,,,state_0212,,base.ve,,,TRUE
+J300619460,BOD Banco Occidental de Descuento,0116,,,state_0212,,base.ve,,,TRUE
+J095048551,Banco Caroni,0128,,,state_0212,,base.ve,,,TRUE
+J070133805,Banesco,0134,,,state_0212,,base.ve,,,TRUE
+J090283846,Banco Sofitasa,0137,,,state_0212,,base.ve,,,TRUE
+J002970553,Banco Plaza,0138,,,state_0212,,base.ve,,,TRUE
+J301442040,Banco de la Gente Emprendedora,0146,,,state_0212,,base.ve,,,TRUE
+J000723060,BFC Banco Fondo Comun,0151,,,state_0212,,base.ve,,,TRUE
+J085007768,100% Banco,0156,,,state_0212,,base.ve,,,TRUE
+J000797234,DelSur,0157,,,state_0212,,base.ve,,,TRUE
+G200051876,Banco del Tesoro,0163,,,state_0212,,base.ve,,,TRUE
+G200057955,Banco Agricola de Venezuela,0166,,,state_0212,,base.ve,,,TRUE
+J316374173,BanCrecer,0168,,,state_0212,,base.ve,,,TRUE
+J315941023,Mi Banco,0169,,,state_0212,,base.ve,,,TRUE
+J080066227,Banco Activo,0171,,,state_0212,,base.ve,,,TRUE
+J316287599,BanCamica,0172,,,state_0212,,base.ve,,,TRUE
+J294640109,Banco Internacional de Desarrollo,0173,,,state_0212,,base.ve,,,TRUE
+J000423032,Banplus,0174,,,state_0212,,base.ve,,,TRUE
+G200091487,Banco Bicentenario del Pueblo de la Clase Obrera Mujer y Comunas,0175,,,state_0212,,base.ve,,,TRUE
+J308918644,Novo Banco,0176,,,state_0212,,base.ve,,,TRUE
+G200106573,Banco de la Fuerza Armada Nacional Bolivariana,0177,,,state_0212,,base.ve,,,TRUE
+J000526621,Citibank,0190,,,state_0212,,base.ve,,,TRUE
+J309841327,Banco Nacional de Credito,0191,,,state_0212,,base.ve,,,TRUE
 G200068973,Instituto Municipal de Credito Popular,0601,,,state_0212,,base.ve,,,TRUE

@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <data noupdate="1">
-       
-        <delete model="res.country.state" search="[('country_id:id''=',ref('au','us','br','ru','gt'))]" />
-        <delete model="res.country.state" search="[('country_id:id''=',ref('jp','pt','eg','za','it'))]" />
-        <delete model="res.country.state" search="[('country_id:id''=',ref('es','my','mx','nz','ca'))]" />
-        <delete model="res.country.state" search="[('country_id:id''=',ref('ae','ar','in','id','co'))]" />
 
+    <!-- States of Other Countries -->
+	    <delete model="res.country.state" search="[('country_id','!=',ref('base.ve'))]"/>      
+        
     <!-- States of Venezuela -->
         <record id="state_0248" model="res.country.state">
             <field name="code">0248</field>

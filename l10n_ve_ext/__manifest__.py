@@ -3,8 +3,8 @@
 
 # Copyright (C) 2017 Engineer & Nano Group, C.A. (<http://www.eyngroup.com.ve>).
 {
-    'name': 'Venezuela - Regional',
-    'version': '1.2',
+    'name': 'Venezuela - Regionalization',
+    'version': '1.1',
     'category': 'Localization',
     'description': """
 Venezuela Module for Regional Parameters
