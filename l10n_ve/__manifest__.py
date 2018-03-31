@@ -4,12 +4,12 @@
 # Copyright (C) 2017 Engineer & Nano Group, C.A. (<http://www.eyngroup.com.ve>).
 
 {	
-    'name': 'Venezuela - Accounting',
+    'name': 'Venezuela - Regionalization',
     'version': '2.0',
     'category': 'Localization',
     'description': """
-Venezuela Accounting Module
-===========================
+Venezuela Module for Regional Parameters
+========================================
 General Chart of Accounts VEN-NIF.
 Provide Templates for Chart of Accounts and Taxes""",
     'author': 'Iron Graterol',
@@ -23,6 +23,10 @@ Provide Templates for Chart of Accounts and Taxes""",
         'data/account.tax.group.csv',
         'data/account.tax.template.csv',
 		'data/account.fiscal.position.template.csv',
+        'data/account.fiscal.position.tax.template.csv',
         'data/account_chart_template_data.yml',
+        'data/res_currency_data.xml',
+      	'data/res_country_state_data.xml',
+      	'data/res.bank.csv',
 	],
 }

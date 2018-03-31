@@ -209,7 +209,7 @@ id,code,name,user_type_id:id,reconcile,chart_template_id:id
 620107,620107,Seguridad Y Monitoreo,account.data_account_type_expenses,FALSE,l10n_ve
 620108,620108,Servicios De Transporte Y Taxis,account.data_account_type_expenses,FALSE,l10n_ve
 620109,620109,Alquiler De Bienes Inmuebles,account.data_account_type_expenses,FALSE,l10n_ve
-620110,620110,Alquiler De Bienes Mubles,account.data_account_type_expenses,FALSE,l10n_ve
+620110,620110,Alquiler De Bienes Muebles,account.data_account_type_expenses,FALSE,l10n_ve
 620201,620201,Servicios De Agua,account.data_account_type_expenses,FALSE,l10n_ve
 620202,620202,Servicios De Electricidad,account.data_account_type_expenses,FALSE,l10n_ve
 620203,620203,Servicios De Aseo,account.data_account_type_expenses,FALSE,l10n_ve

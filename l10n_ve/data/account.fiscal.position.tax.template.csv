@@ -1,3 +1,13 @@
-"id","position_id/id","tax_src_id/id","tax_dest_id/id"
-ve_fp_001_tax1,ve_fp_001,tax0sale,tax1sale
-,,,
+id,position_id/id,tax_src_id/id,tax_dest_id/id
+ve_fp_taxRD_sale0,ve_fiscal_position_IVA0,tax1sale,tax0sale
+ve_fp_taxGN_sale0,ve_fiscal_position_IVA0,tax2sale,tax0sale
+ve_fp_taxS1_sale0,ve_fiscal_position_IVA0,tax3sale,tax0sale
+ve_fp_taxRD_purchase0,ve_fiscal_position_IVA0,tax1purchase,tax0purchase
+ve_fp_taxGN_purchase0,ve_fiscal_position_IVA0,tax2purchase,tax0purchase
+ve_fp_taxS1_purchase0,ve_fiscal_position_IVA0,tax3purchase,tax0purchase
+ve_fp_taxRD_sale1,ve_fiscal_position_IVA1,tax1sale,tax1sale
+ve_fp_taxGN_sale1,ve_fiscal_position_IVA1,tax2sale,tax2sale
+ve_fp_taxS1_sale1,ve_fiscal_position_IVA1,tax3sale,tax3sale
+ve_fp_taxRD_purchase1,ve_fiscal_position_IVA1,tax1purchase,tax1purchase
+ve_fp_taxGN_purchase1,ve_fiscal_position_IVA1,tax2purchase,tax2purchase
+ve_fp_taxS1_purchase1,ve_fiscal_position_IVA1,tax3purchase,tax3purchase
