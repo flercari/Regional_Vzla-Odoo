@@ -5,7 +5,7 @@
 
 {	
     'name': 'Venezuela - Regionalization',
-    'version': '2.0',
+    'version': '2.1',
     'category': 'Localization',
     'description': """
 Venezuela Module for Regional Parameters
