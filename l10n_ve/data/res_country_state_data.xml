@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-    <data noupdate="1">
+    <data noupdate="0">
 
-    <!-- States of Other Countries -->
+    <!-- Estados de Otros Paises -->
 	    <delete model="res.country.state" search="[('country_id','!=',ref('base.ve'))]"/>      
         
-    <!-- States of Venezuela -->
+    <!-- Estados de Venezuela -->
         <record id="state_0248" model="res.country.state">
             <field name="code">0248</field>
             <field name="name">Amazonas</field>
@@ -126,5 +126,6 @@
             <field name="name">Zulia</field>
             <field name="country_id" ref="base.ve"/>
         </record>
+		
     </data>
 </odoo>

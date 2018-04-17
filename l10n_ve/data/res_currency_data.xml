@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <data noupdate="0">
+	
+    <!-- Currency of Other Countries -->
+	    <delete model="res.currency" search="[('currency_id','!=',ref('base.VEF'),('currency_id','!=',ref('base.USD'),('currency_id','!=',ref('base.EUR'))]"/>   
 
+    <!-- Currency of Venezuela -->
 		<record id="base.VEF" model="res.currency">
-            <field name="symbol">Bs.</field>
+            <field name="symbol">Bs.S</field>
             <field name="rounding">0.01</field>
             <field name="currency_unit_label">Bolivar</field>
         </record>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
+    <data noupdate="0">
+
+    <!-- Cuentas Existentes -->
+	<!--    <delete model="account.chart.template" search="[('id','!=',ref('l10n_ve'))]"/>  -->    
 
 	<!-- Tipos de Cuentas -->
     <record model="account.account.type" id="account_type_indefinida">
@@ -27,4 +31,5 @@
         <field name="chart_template_id" ref="l10n_ve"/>
     </record>
 
+    </data>
 </odoo>

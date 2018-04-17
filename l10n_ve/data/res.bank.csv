@@ -4,15 +4,15 @@ G200099976,Banco de Venezuela,0102,Av. Universidad. de Sociedad a Traposos. Torr
 J000029709,Banco Venezolano de Credito,0104,Avenida Alameda. Edificio Banco Venezolano de Credito,San Bernardino,Caracas,1010,05016422626,contactobvc@venezolano.com,state_0212,base.ve,TRUE
 J000029610,Banco Mercantil,0105,Av. Andres Bello. Cruce Con Av. El Lago. Edf. Mercantil No. 1,San Bernardino,Caracas,1010,02125032424,mercan24@mercantilbanco.com,state_0212,base.ve,TRUE
 J000029679,Banco Provincial,0108,Av. Vollmer. Cruce con Av. Este 0. Edif Centro Financiero Provincial,La Candelaria,Caracas,1010,05005087432,defensordelcliente.ve@bbva.com,state_0212,base.ve,TRUE
-J000029490,Bancaribe,0114,Av. Francisco de Miranda. Centro Empresarial Galipán. Urb. El Rosal. Torre BANCARIBE,Chacao,Caracas,1060,05002262274,uac@bancaribe.com.ve,state_0234,base.ve,TRUE
+J000029490,Bancaribe,0114,Av. Francisco de Miranda. Centro Empresarial Galipan. Urb. El Rosal. Torre BANCARIBE,Chacao,Caracas,1060,05002262274,uac@bancaribe.com.ve,state_0234,base.ve,TRUE
 J000029504,Banco Exterior,0115,Av. Urdaneta. Entre Esquina de Urapal a Rio. Edf. Banco Exterior,La Candelaria,Caracas,1010,02125085000,contactoe24@bancoexterior.com,state_0212,base.ve,TRUE
 J300619460,BOD Banco Occidental de Descuento,0116,Calle 77. Av. 17. Edificio BOD. Piso 1,Sede Industrial,Maracaibo,4001,05019200000,contactoamigo@bod.com.ve,state_0261,base.ve,TRUE
 J095048551,Banco Caroni,0128,Av. Via Venezuela. Multicentro Banco Caroni,Centro,Puerto Ordaz,8050,05003227664,defensordelcliente.usuario@bancocaroni.com.ve,state_0285,base.ve,TRUE
 J070133805,Banesco,0134,Calle Lincoln. entre Av. Principal y Av. Leonardo Da Vinci. Edif. Ciudad Banesco,Bello Monte,Caracas,1050,05002262624,atclient@banesco.com,state_0212,base.ve,TRUE
 J090283846,Banco Sofitasa,0137,7ma. Av. esq. calle 4. Edif. Banco Sofitasa,Centro,San Cristobal,5001,05007634835,servicio@sofitasa.com,state_0276,base.ve,TRUE
-J002970553,Banco Plaza,0138,Av. Casanova. Entre Calles Unión y Villaflor,Sabana Grande,Caracas,1020,05017529200,centrodeatencion@bancoplaza.com,state_0212,base.ve,TRUE
-J301442040,Bangente,0146,Av. Bolivar Cruce con Washington. Nro. 79. Perez Bonalde. Urbanización Nueva Caracas,Catia,Caracas,1030,05002264368,defensordelcliente@bangente.com.ve,state_0212,base.ve,TRUE
-J000723060,BFC Banco Fondo Común,0151,Av. Principal de las Mercedes entre calle Guaicaipuro y Av. Venezuela Torre BFC. El Rosal,Chacao,Caracas,1060,05005972222,atencionalcliente@bfc.com.ve,state_0212,base.ve,TRUE
+J002970553,Banco Plaza,0138,Av. Casanova. Entre Calles Union y Villaflor,Sabana Grande,Caracas,1020,05017529200,centrodeatencion@bancoplaza.com,state_0212,base.ve,TRUE
+J301442040,Bangente,0146,Av. Bolivar Cruce con Washington. Nro. 79. Perez Bonalde. Urbanizacion Nueva Caracas,Catia,Caracas,1030,05002264368,defensordelcliente@bangente.com.ve,state_0212,base.ve,TRUE
+J000723060,BFC Banco Fondo Comun,0151,Av. Principal de las Mercedes entre calle Guaicaipuro y Av. Venezuela Torre BFC. El Rosal,Chacao,Caracas,1060,05005972222,atencionalcliente@bfc.com.ve,state_0212,base.ve,TRUE
 J085007768,100% Banco,0156,Av.  Blandin. Centro San Ignacio. Torre Copernico. Piso 10.,La Castellana,Caracas,1060,02122775444,atencionalcliente@100x100banco.com,state_0212,base.ve,TRUE
 J000797234,Banco DelSur,0157,Calle Caicara. Edif. Del Sur,Centro,Puerto Ordaz,8050,05003357870,atencionalcliente@delsur.com.ve,state_0285,base.ve,TRUE
 G200051876,Banco del Tesoro,0163,Calle Guaicaipuro.con Calle Mohedano Torre Banco del Tesoro nivel PB. Urb. El Rosal,Chacao,Caracas,1060,08002837676,atencionc@bt.gob.ve,state_0234,base.ve,TRUE
@@ -29,4 +29,3 @@ G200106573,Banco BANFANB,0177,Torre Principal BANFANB Av Venezuela,El Rosal,Cara
 J000526621,Citibank N.A.,0190,Av. Casanova. C.C. El Recreo. Torre Norte. PB. Local C-3,Bello Monte,Caracas,1050,02127052614,defensoriadelcliente@citi.com,state_0212,base.ve,TRUE
 J309841327,BNC Banco Nacional de Credito,0191,Av. Vollmer. Centro Empresarial Caracas. Torre Sur,San Bernardino,Caracas,1010,05002625000,servicliente@bnc.com.ve.,state_0212,base.ve,TRUE
 G200068973,Instituto Municipal de Credito Popular,0601,Av. San Martin. Bloque 1 de El Silencio. frente a la Plaza O'leary,El Silencio,Caracas,1010,02124812007,www.imcp.com.ve,state_0212,base.ve,TRUE
-,,,,,,,,,,,
